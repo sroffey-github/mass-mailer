@@ -21,7 +21,7 @@ FROM_ADDRESS=<your email address>
 PASSWORD=<your password>
 ```
 
-> **If your account uses 2FA, you must disable this feature**
+> **If your account uses 2FA, you must disable this feature. You will also need to allow insecure apps in your google account settings**
 
 4. Create another file called `body.txt` this will be contain the message that you want to send
 
